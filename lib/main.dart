@@ -213,16 +213,6 @@ class _CalenderState extends State<Calender> {
 
                           Text(num,textAlign: TextAlign.center,),
 
-                           //  ,style: TextStyle(fontSize: 50),
-                          /*Text(
-                            'มกราคม              1               JANUARY ',
-                            style: TextStyle(
-                              fontSize: 25,
-                              color: Colors.black,
-                              fontWeight: FontWeight.w800,
-                            ),
-                            textAlign: TextAlign.center,
-                          ),*/
                         ],
                       ),
 
